@@ -13,7 +13,7 @@ public class UserServiceImpl implements UserService{
     // we create a ArrayList of Users and simulate it.
 
     ArrayList<User> userArrayList = new ArrayList<>(Arrays.asList(
-            new User(1, "BeachSamite", 15, "Warrior", "beach@mail.com"),
+            new User(1, "borabesiktepe", 15, "Warrior", "bora@mail.com"),
             new User(2, "Wackrianx", 26, "Mage", "wackrianx@mail.com"),
             new User(3, "Looby_ott", 4, "Warlock", "looby@mail.com"),
             new User(4, "Avenuetle867", 46, "Death Knight", "ave867@mail.com"),
